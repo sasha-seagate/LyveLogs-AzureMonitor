@@ -1,0 +1,22 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "LyveUrl": "",
+    "LyveAccessKey": "",
+    "LyveSecretKey": "",
+    "BucketName": "",
+
+    "LogAnalyticsWorkspaceID": "",
+    "LogAnalyticsKey": "",
+    "LogAnalyticsLogName": "",
+    "LogAnalyticsTimestampField": "auditEntry_time_t",
+    "StartTime": ""
+  },
+  "Host": {
+    "CORS": "*"
+  }
+
+}
